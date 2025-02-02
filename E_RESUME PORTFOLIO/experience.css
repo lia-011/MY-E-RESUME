@@ -234,9 +234,24 @@ nav a.active {
     100% {
       transform: translateY(0%);
     }
+
+}
+footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    width: 100%; 
+    background-color: rgba(0, 0, 0, 0.332);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+    z-index: 10;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+
 }
 
-footer {
+footer p {
     margin: 0;
     padding: 0;
     text-align: center;
