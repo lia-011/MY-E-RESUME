@@ -235,7 +235,6 @@ nav a.active {
       transform: translateY(0%);
     }
 
-}
 footer {
     position: fixed; 
     bottom: 0;
@@ -244,11 +243,10 @@ footer {
     background-color: rgba(0, 0, 0, 0.332);
     color: white;
     text-align: center;
-    padding: 25px 0;
-    font-size: 25px;
+    padding: 40px 0;  
+    font-size: 35px;  
     z-index: 10;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
-
 }
 
 footer p {
