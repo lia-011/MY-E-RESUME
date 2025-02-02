@@ -233,8 +233,9 @@ nav a.active {
 @keyframes show-bars {
     100% {
       transform: translateY(0%);
-    }
-
+   }
+    
+}
 footer {
     position: fixed; 
     bottom: 0;
