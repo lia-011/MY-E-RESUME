@@ -235,3 +235,9 @@ nav a.active {
       transform: translateY(0%);
     }
 }
+
+footer p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
